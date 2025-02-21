@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xuanyu SHI.
-- 👀 I’m interested in Computational Social Science and Social Network Analysis
-- 🌱 I’m currently a PhD student at Hong Kong Baptist University
+- 👀 I’m interested in AI for Social Science, Computational Social Science, and Network Analysis
+- 🌱 I’m currently a PhD student at HKUST
 - 📫 vicshi94@gmail.com
 
 <!---
